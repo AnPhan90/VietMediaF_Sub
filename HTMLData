@@ -1,0 +1,11 @@
+<label for="cars">Nhập số tiền:</label>
+<input type="text" id="nhapsotien"/>
+<label for="cars">Nhân viên:</label>
+<select name="nhanvien" id="nhanvien">
+   <option value="-">Chọn nhân viên</option>
+   <option value="A">Nhân viên A</option>
+   <option value="B">Nhân viên B</option>
+   <option value="C">Nhân viên C</option>
+   <option value="D">Nhân viên D</option>
+</select>
+<input type="button" id="chuyendoi" value="Chuyển Đổi"/>
