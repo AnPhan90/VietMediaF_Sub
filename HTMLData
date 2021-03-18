@@ -5,7 +5,7 @@
    <option value="-">Chọn nhân viên</option>
    <option value="A">Phan</option>
    <option value="B">Minh</option>
-   <option value="C">A</option>
+   <option value="C">Avc12</option>
    <option value="D">C</option>
 </select>
 <input type="button" id="chuyendoi" value="Chuyển Đổi"/>
