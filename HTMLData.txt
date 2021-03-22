@@ -13,10 +13,10 @@
       <div class="item5">
          <select name="nhanvien" id="nhanvien" class="nhanvien">
             <option value="-">Chọn nhân viên</option>
-            <option value="A">Nhân viên A</option>
-            <option value="B">Nhân viên B</option>
-            <option value="C">Nhân viên C</option>
-            <option value="D">Nhân viên D</option>
+            <option value="A">Nguyễn</option>
+            <option value="B">Phạm</option>
+            <option value="C">Phan</option>
+            <option value="D">Lê</option>
          </select>
       </div>
       <div class="item6">
