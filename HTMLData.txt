@@ -3,9 +3,9 @@
 <label for="cars">Nhân viên:</label>
 <select name="nhanvien" id="nhanvien">
    <option value="-">Chọn nhân viên</option>
-   <option value="A">Phan</option>
-   <option value="B">Minh</option>
-   <option value="C">Avc12</option>
-   <option value="D">C</option>
+   <option value="A">Phan 123</option>
+   <option value="B">Minh 456 </option>
+   <option value="C">Avc12 789</option>
+   <option value="D">C 112</option>
 </select>
 <input type="button" id="chuyendoi" value="Chuyển Đổi"/>
