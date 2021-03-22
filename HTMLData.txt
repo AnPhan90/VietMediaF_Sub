@@ -1,11 +1,26 @@
-<label for="cars">Nhập số tiền:</label>
-<input type="text" id="nhapsotien"/>
-<label for="cars">Nhân viên:</label>
-<select name="nhanvien" id="nhanvien">
-   <option value="-">Chọn nhân viên</option>
-   <option value="A">Phan 123</option>
-   <option value="B">Minh 456 </option>
-   <option value="C">Avc12 789</option>
-   <option value="D">C 112</option>
-</select>
-<input type="button" id="chuyendoi" value="Chuyển Đổi"/>
+<div class="center">
+   <div class="grid-container">
+      <div class="item1">VTP - BC Hải Châu</div>
+      <div class="item2">
+         <label for="cars">Nhập số tiền   :</label>
+      </div>
+      <div class="item3">
+         <input type="text" id="nhapsotien" class="nhapsotien"/>
+      </div>
+      <div class="item4">
+         <label for="cars">Nhân viên     :</label>
+      </div>
+      <div class="item5">
+         <select name="nhanvien" id="nhanvien" class="nhanvien">
+            <option value="-">Chọn nhân viên</option>
+            <option value="A">Nhân viên A</option>
+            <option value="B">Nhân viên B</option>
+            <option value="C">Nhân viên C</option>
+            <option value="D">Nhân viên D</option>
+         </select>
+      </div>
+      <div class="item6">
+         <input type="button" class="myButton" id="chuyendoi" value="CHUYỂN ĐỔI"/>
+      </div>
+   </div>
+</div>
